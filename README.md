@@ -1,9 +1,9 @@
 <p align="center">
 <img src="<p align="center">
-<img src="https://files.catbox.moe/wb9g38.jpg" width="90%" heigt="90%">
+<img src="https://files.catbox.moe/ye1edv.jpg" width="90%" heigt="90%">
 </p>
 
-<h1 align="center">Digital Telegram Bot</h1>
+<h1 align="center">Shadow Telegram Bot</h1>
 
 <p align="center">
 Base Node.js pour créer et déployer rapidement son propre bot Telegram.
@@ -11,7 +11,7 @@ Base Node.js pour créer et déployer rapidement son propre bot Telegram.
 
 <p align="center">
 
-<a href="https://wa.me/243833389567">
+<a href="https://wa.me/221766297256">
 <img src="https://img.shields.io/badge/Contact%20Developer-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
@@ -27,7 +27,7 @@ Base Node.js pour créer et déployer rapidement son propre bot Telegram.
 
 ```bash
 git clone https://github.com/NeoZoneHub/Digital-telegram-bot
-cd Digital-telegram-bot
+cd Shadow-telegram-bot
 npm install
 ```
 
